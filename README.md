@@ -1,2 +1,3 @@
 # hello-world
-My very first GitHub repository
+
+I'm learning how this works. I'll be able to post entire projects later.
